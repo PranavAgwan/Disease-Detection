@@ -101,7 +101,7 @@ These images show the web interface of the AI/ML disease detection application.
 
 ### 🧠 Brain Tumor Detection
 
-#### *Brain Tumor disease prediction page*
+#### *Brain Tumor Detection page*
 ![Brain Tumor Page](results/bt.png)  
 
 #### *Example prediction: Positive for Brain Tumor*
@@ -114,38 +114,42 @@ These images show the web interface of the AI/ML disease detection application.
 ---
 
 ### 🎗️ Breast Cancer Detection
+
+#### *Breast Cancer Detection page*
 ![Breast Cancer Page](results/bc.png)  
-*Breast Cancer disease prediction page*
 
+#### *Example prediction: Malignant*
 ![Breast Cancer Malignant Example](results/bcm.png)  
-*Example prediction: Malignant*
 
+#### *Example prediction: Benign*
 ![Breast Cancer Benign Example](results/bcb.png)  
-*Example prediction: Benign*
+
 
 ---
 
 ### 🦠 Covid-19 Detection
+
+#### *Covid-19 Detection page*
 ![Covid-19 Page](results/c.png)  
-*Covid-19 disease prediction page*
 
+#### *Example prediction: Positive for Covid-19*
 ![Covid-19 Positive Example](results/cp.png)  
-*Example prediction: Positive for Covid-19*
 
+#### *Example prediction: Negative for Covid-19*
 ![Covid-19 Negative Example](results/cn.png)  
-*Example prediction: Negative for Covid-19*
 
 ---
 
 ### 🤧 Pneumonia Detection
+
+#### *Pneumonia Detection page*
 ![Pneumonia Page](results/p.png)  
-*Pneumonia disease prediction page*
 
+#### *Example prediction: Positive for Pneumonia*
 ![Pneumonia Positive Example](results/pp.png)  
-*Example prediction: Positive for Pneumonia*
 
+#### *Example prediction: Negative for Pneumonia*
 ![Pneumonia Negative Example](results/pn.png)  
-*Example prediction: Negative for Pneumonia*
 
 ---
 
