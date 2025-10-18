@@ -180,3 +180,10 @@ This framework can be extended to additional diseases, larger datasets, or a ful
 | **Matplotlib & Seaborn** | Visualizations for EDA and model evaluation |
 
 ---
+
+## 👨‍💻 Author
+👤 Name : **Pranav Agwan** 
+
+📧 Mail : agwanpranav123@gmail.com 
+
+🔗 LinkedIn Profile : www.linkedin.com/in/pranav-agwan-84b80b211  
