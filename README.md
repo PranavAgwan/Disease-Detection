@@ -1,4 +1,4 @@
-# 🧬 AI/ML Disease Detection Web Application
+# 🧬 Disease Detection using CNN and Random Forest Algorithm
 
 ## 🧠 Introduction
 This project focuses on creating a **disease detection system** capable of identifying four diseases:  
