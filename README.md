@@ -15,7 +15,6 @@ The project combines **deep learning (CNN)** and **machine learning (Random Fore
 
 The system is designed to be accessible, allowing users to get predictions and solutions regardless of location, providing a practical tool especially in pandemic scenarios or areas with limited medical access.
 
-> 📝 All analysis, model training, and intermediate results are available in the Jupyter Notebook: **`Disease_Detection.ipynb`**.
 
 ---
 
@@ -89,8 +88,8 @@ The system is designed to be accessible, allowing users to get predictions and s
 ### 🌐 Web Application Screenshots
 These images show the web interface of the AI/ML disease detection application.
 
+#### **Main page of the web application**
 ![Website Screenshot 1](results/w1.png)  
-*Main page of the web application*
 
 ![Website Screenshot 2](results/w2.png)  
 
@@ -98,18 +97,19 @@ These images show the web interface of the AI/ML disease detection application.
 
 ![Website Screenshot 4](results/w4.png)  
 
-
 ---
 
 ### 🧠 Brain Tumor Detection
+
+#### *Brain Tumor disease prediction page*
 ![Brain Tumor Page](results/bt.png)  
-*Brain Tumor disease prediction page*
 
+#### *Example prediction: Positive for Brain Tumor*
 ![Brain Tumor Positive Example](results/bty.png)  
-*Example prediction: Positive for Brain Tumor*
 
+#### *Example prediction: Negative for Brain Tumor*
 ![Brain Tumor Negative Example](results/btn.png)  
-*Example prediction: Negative for Brain Tumor*
+
 
 ---
 
