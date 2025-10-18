@@ -84,6 +84,71 @@ The system is designed to be accessible, allowing users to get predictions and s
 
 ---
 
+## 📸 Website & Model Results
+
+### 🌐 Web Application Screenshots
+These images show the web interface of the AI/ML disease detection application.
+
+![Website Screenshot 1](results/w1.png)  
+*Main page of the web application*
+
+![Website Screenshot 2](results/w2.png)  
+
+![Website Screenshot 3](results/w3.png)  
+
+![Website Screenshot 4](results/w4.png)  
+
+
+---
+
+### 🧠 Brain Tumor Detection
+![Brain Tumor Page](results/bt.png)  
+*Brain Tumor disease prediction page*
+
+![Brain Tumor Positive Example](results/bty.png)  
+*Example prediction: Positive for Brain Tumor*
+
+![Brain Tumor Negative Example](results/btn.png)  
+*Example prediction: Negative for Brain Tumor*
+
+---
+
+### 🎗️ Breast Cancer Detection
+![Breast Cancer Page](results/bc.png)  
+*Breast Cancer disease prediction page*
+
+![Breast Cancer Malignant Example](results/bcm.png)  
+*Example prediction: Malignant*
+
+![Breast Cancer Benign Example](results/bcb.png)  
+*Example prediction: Benign*
+
+---
+
+### 🦠 Covid-19 Detection
+![Covid-19 Page](results/c.png)  
+*Covid-19 disease prediction page*
+
+![Covid-19 Positive Example](results/cp.png)  
+*Example prediction: Positive for Covid-19*
+
+![Covid-19 Negative Example](results/cn.png)  
+*Example prediction: Negative for Covid-19*
+
+---
+
+### 🤧 Pneumonia Detection
+![Pneumonia Page](results/p.png)  
+*Pneumonia disease prediction page*
+
+![Pneumonia Positive Example](results/pp.png)  
+*Example prediction: Positive for Pneumonia*
+
+![Pneumonia Negative Example](results/pn.png)  
+*Example prediction: Negative for Pneumonia*
+
+---
+
 ## 🧾 Conclusion
 This project successfully demonstrates an **end-to-end AI/ML disease detection pipeline**, from model training to deployment as a web application.  
 
